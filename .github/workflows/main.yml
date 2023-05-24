@@ -61,3 +61,4 @@ jobs:
           with:
             push: true
             tags: BornNSK/infra_actions:latest    
+
